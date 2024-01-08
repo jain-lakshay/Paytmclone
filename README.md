@@ -16,4 +16,4 @@
 
 ## Screenshots
 
-![App Screenshot]( https://pikwy.com/web/659b9bfd4fcbf471455a28a3)
+![App Screenshot](https://api.pikwy.com/web/659ba3dfd4ebfd15f70e398b.jpg)
